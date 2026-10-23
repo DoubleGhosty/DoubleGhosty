@@ -1,12 +1,13 @@
 # 🛡️ Ghosty (@DoubleGhosty)
 
-> **Cybersécurité & Ingénierie des Systèmes**  
-> Spécialisé en détection de menaces & analyse SOC, sécurité réseau et développement de logiciels sécurisés.
+> **Étudiant Ingénieur en Informatique @ [EPITA](https://www.epita.fr/)**  
+> Spécialisé en **Cybersécurité**, **Sécurité des Réseaux & Systèmes** et **Développement Logiciel Sécurisé**.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Léo_BENGHIAT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9o-benghiat-47662b332/)
 [![Certifications](https://img.shields.io/badge/Certifications-Portfolio_Cyber-007ACC?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/DoubleGhosty/Certifications)
 [![Ethical Hacker](https://img.shields.io/badge/Pearson-Certified_Ethical_Hacker-red?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/DoubleGhosty/Certifications)
 [![CompTIA CASP+](https://img.shields.io/badge/CompTIA-CASP%2B_Advanced_Security-black?style=for-the-badge&logo=comptia&logoColor=white)](https://github.com/DoubleGhosty/Certifications)
-[![Contact](https://img.shields.io/badge/Contact-EFREI_Paris-3b82f6?style=for-the-badge&logo=google-chat&logoColor=white)](mailto:leo.benghiat@efrei.net)
+[![EPITA](https://img.shields.io/badge/École-EPITA_Paris-blueviolet?style=for-the-badge&logo=academia&logoColor=white)](https://www.epita.fr/)
 
 ---
 
@@ -34,12 +35,19 @@ Cybersécurité & Défense : Détection SOC, Modélisation de menaces, Analyse d
 Réseaux & Protocoles    : Protocoles TCP/IP, Sockets, HTTP/1.1 à HTTP/3, MTProto, Proxying (SOCKS/HTTP), Wireshark
 Cryptographie Appliquée : Dérivation de clés (Argon2id), Windows DPAPI, HMAC cascades, Chiffrement symétrique
 Langages & Systèmes     : C++, C# (.NET 8/9), Python, TypeScript, Shell / Bash, Windows Internals (Win32), Linux
-Architecture & DevOps   : Docker, Git, CI/CD, Supabase (PostgreSQL / RLS), Next.js, FastAPI
+Web & Données Sécurisées: Next.js, React 19, Supabase RLS, MySQL, PostgreSQL, API REST, Docker, Git/CI-CD
 ```
 
 ---
 
-### 🎓 Certifications Valisées
+### 💼 Expériences Pratiques
+
+- **Développeur Web & Sécurité des Données** *(Stage)* : Conception et sécurisation de flux, protection des données utilisateurs, gestion des accès & API, tests fonctionnels et documentation.
+- **Technicien Support Informatique & Sécurité Web** *(Stage)* : Audit et correction de vulnérabilités web, résolution d'incidents réseau, maintenance système (Windows/macOS) et sensibilisation à l'hygiène numérique.
+
+---
+
+### 🎓 Certifications Validées
 
 *Retrouvez l'ensemble des attestations et badges sur [DoubleGhosty/Certifications](https://github.com/DoubleGhosty/Certifications)* :
 
